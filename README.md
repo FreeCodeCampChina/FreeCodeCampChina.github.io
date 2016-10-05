@@ -47,6 +47,7 @@ FreeCodeCampChina 城市社区
 * 官方QQ群：526289580
 * 新浪微博：http://weibo.com/FreeCodeCamp
 * Github仓库：https://github.com/FreeCodeCampChina
+
 ![微信公众号：freecodecamp](https://freecodecamp.cn/images/fcc-code.png)
 
 
