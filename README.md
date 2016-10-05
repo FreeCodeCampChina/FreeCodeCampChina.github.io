@@ -41,12 +41,12 @@ FreeCodeCampChina 城市社区
 29. |[XiAn](https://www.facebook.com/groups/free.code.camp.china.xian/)
 30. |[Zhengzhou](https://www.facebook.com/groups/free.code.camp.zhengzhou/)
 
-社区主页：www.freecodecamp.cn
-团队邮箱：team@freecodecamp.cn
-Gitter聊天室：https://gitter.im/FreeCodeCamp/chinese
-官方QQ群：526289580
-新浪微博：http://weibo.com/FreeCodeCamp
-Github仓库：https://github.com/FreeCodeCampChina
+* 社区主页：www.freecodecamp.cn
+* 团队邮箱：team@freecodecamp.cn
+* Gitter聊天室：https://gitter.im/FreeCodeCamp/chinese
+* 官方QQ群：526289580
+* 新浪微博：http://weibo.com/FreeCodeCamp
+* Github仓库：https://github.com/FreeCodeCampChina
 ![微信公众号：freecodecamp](https://freecodecamp.cn/images/fcc-code.png)
 
 
